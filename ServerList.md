@@ -19,3 +19,5 @@
 - (Zentic): __wss://zentic.cc__  
 
 - (GalacticPVP): __wss://galacticpvp.eagler.host__  
+
+- (ArchMC): __wss://arch.mc__  
