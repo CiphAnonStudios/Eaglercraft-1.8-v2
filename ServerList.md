@@ -1,8 +1,21 @@
-- (XenaMC): __wss://playfrogiee1.net/eagles/__
+- (Xena MC): __wss://playfrogiee1.net/eagles/__
 
-- (XenaMC): __wss://xena.wtf__
+- (Xena MC): __wss://xena.wtf__
 
-- (XenaMC): __wss://xenamc.com__
+- (Xena MC): __wss://xenamc.com__
 
-- (XenaMC): __wss://eagler.frogiee.one__   
+- (Xena MC): __wss://eagler.frogiee.one__
 
+- (FKAS MC): __wss://fkas.online__
+
+- (Vanilla MC): __wss://vanillamc.me__
+
+- (Elysium Network): __wss://web.elysiumnet.xyz__
+
+- (Pizza SMP): __wss://pizzasmp.qzz.io__
+
+- (TuffNET): __wss://tuffest.org__  
+
+- (Zentic): __wss://zentic.cc__  
+
+- (GalacticPVP): __wss://galacticpvp.eagler.host__  
