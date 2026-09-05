@@ -20,4 +20,6 @@
 
 - (GalacticPVP): __wss://galacticpvp.eagler.host__  
 
-- (ArchMC): __wss://arch.mc__  
+- (ArchMC): __wss://arch.mc__
+
+- (SME MC): __wss://play.sme-mc.us__  
